@@ -1,0 +1,11 @@
+Comandos ultilizados.
+
+Comando para tornar extensão sh executável
+chmod u+x calculadora.sh
+
+comando para para definir permissão de leitura
+chmod go+r
+chmod u+rw
+
+comando para executar script da calculadora 
+./calculadora.sh 
