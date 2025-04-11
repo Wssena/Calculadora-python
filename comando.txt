@@ -9,3 +9,9 @@ chmod u+rw
 
 comando para executar script da calculadora 
 ./calculadora.sh 
+
+A calculadora em python foi criada para demonstrar adição de conhecimentos práticos das aulas teóricas.
+Para usar basta seguir as orientações indicadas assim que iniciar o programa utilizando os sinais corretamente também observando a ortografia.
+No programa terá quatro operações, adição, subtração, multiplicação e divisão.
+
+Ah! Já ia esquecendo, terá umas perguntas para interagir com o usuário !!! DIVIRTA-SE.
